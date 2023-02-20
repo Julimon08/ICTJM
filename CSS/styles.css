@@ -1,0 +1,17 @@
+h1{
+  color: #9f8170;font-family: fantasy; font-size: xx-large;
+}
+
+body{
+  background-color: #fbcbe1;
+}
+
+p{
+  color:black; font-size: x-large; font-family: cursive;
+}
+hr{
+  border-color: black;
+  border-width: 10px;
+  border-style: dashed none none;
+  width: 8%
+}
